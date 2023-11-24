@@ -455,7 +455,7 @@ line-height: calc(100vw/375*18);
         padding: calc(100vw/1920*40) calc(100vw/1920*80) 0 calc(100vw/1920*80);
         color: rgba(86, 78, 78, 1);
     }
-    #tieude1 {display: initial;
+    #tieude1 {display: block;
         margin-bottom: calc(100vw/1920*16);
     }
     #section1 img {
